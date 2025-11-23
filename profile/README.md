@@ -1,49 +1,39 @@
 # AutoChess ♟️
-
 **Infinite client-side AI chess battles.**
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit-brightgreen)](https://automaticchess.github.io) 
+![AutoChess screenshot](https://github.com/user-attachments/assets/31f8f8c8-6e8f-4f8b-9c6b-9d3e7f8a9b2c)
+
+[![Live Demo (JS)](https://img.shields.io/badge/Live_Demo-Visit-brightgreen)](https://automaticchess.github.io)
+[![Python version](https://img.shields.io/badge/Python_version-Repo-blue)](https://github.com/AutomaticChess/PythonGame)
 [![Report Bug](https://img.shields.io/badge/Report-Bug-red)](https://github.com/automaticchess/automaticchess.github.io/issues)
 
 ## ⚡ Features
-
-- **AI**: 3 distinct personalities (Aggressive, Positional, Balanced)
-- **Engine**: Visual advantage bar, material counting, ECO opening detection
-- **Audio**: Procedural sound generation (Web Audio API)
-- **UI**: Glassmorphism design, fully responsive, no frameworks
+- 3 AI personalities (Aggressive, Positional, Balanced)
+- Evaluation bar, material count, ECO opening detection
+- Procedural sound (Web Audio API)
+- Glassmorphism UI, fully responsive, zero frameworks
 
 ## 🛠 Tech Stack
+| Component | Technology |
+|---------|------------|
+| Core    | HTML5, CSS3, Vanilla JS |
+| Logic   | chess.js |
+| Python version | Flask + Flask-SocketIO + python-chess |
 
-| Component   | Technology                     |
-|-------------|--------------------------------|
-| Core        | HTML5, CSS3, Vanilla JS (ES6+) |
-| Logic       | chess.js (Move validation)     |
-| Audio       | Native Web Audio API           |
-| Build       | None (Zero dependency)         |
+## 🚀 Usage (JS)
+```bash
+git clone https://github.com/automaticchess/automaticchess.github.io.git
+open index.html   # or python3 -m http.server
+```
 
-## 🚀 Usage
-
-No build steps required.
-
-1. **Clone the repo**
-   ```bash
-   git clone https://github.com/automaticchess/automaticchess.github.io.git
-   cd automaticchess.github.io
-   ```
-
-2. **Run**
-   - Simply open `index.html` directly in Chrome or Safari  
-   - (Optional) For stricter module security:  
-     ```bash
-     python3 -m http.server
-     ```
+- Python version: check this [repo](https://github.com/AutomaticChess/PythonGame)
 
 ## 🎮 Controls
-
-- **Speed**: Toggle Slow / Normal / Fast
-- **Sound**: Toggle Audio API on/off
-- **New Game**: Reset board state
+- Speed: Slow / Normal / Fast
+- Sound on/off
+- New Game
 
 ## 📄 License
+MIT © [AutomaticChess](https://github.com/automaticchess)
 
-MIT © [AutoChess Team](https://github.com/automaticchess)
+Just upload your screenshot to the repo (or use a direct raw GitHub link) and replace the image URL. Done — short, clean, and now shows both versions.
