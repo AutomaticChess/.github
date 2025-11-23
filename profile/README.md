@@ -39,5 +39,3 @@ open index.html   # or python3 -m http.server
 
 ## 📄 License
 MIT © [AutomaticChess](https://github.com/automaticchess)
-
-Just upload your screenshot to the repo (or use a direct raw GitHub link) and replace the image URL. Done — short, clean, and now shows both versions.
