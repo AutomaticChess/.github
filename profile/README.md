@@ -1,7 +1,11 @@
 # AutoChess ♟️
 **Infinite client-side AI chess battles.**
 
-![AutoChess screenshot](https://github.com/user-attachments/assets/31f8f8c8-6e8f-4f8b-9c6b-9d3e7f8a9b2c)
+<div align="center">
+  <img 
+    style="width: 700px;"
+    src="https://github.com/AutomaticChess/.github/blob/main/AutomaticChess.jpg">
+</div>
 
 [![Live Demo (JS)](https://img.shields.io/badge/Live_Demo-Visit-brightgreen)](https://automaticchess.github.io)
 [![Python version](https://img.shields.io/badge/Python_version-Repo-blue)](https://github.com/AutomaticChess/PythonGame)
