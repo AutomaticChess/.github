@@ -1,15 +1,15 @@
 # AutoChess ♟️
 **Infinite client-side AI chess battles.**
 
+[![Live Demo (JS)](https://img.shields.io/badge/Live_Demo-Visit-brightgreen)](https://automaticchess.github.io)
+[![Python version](https://img.shields.io/badge/Python_version-Repo-blue)](https://github.com/AutomaticChess/PythonGame)
+[![Report Bug](https://img.shields.io/badge/Report-Bug-red)](https://github.com/automaticchess/automaticchess.github.io/issues)
+
 <div align="center">
   <img 
     style="width: 700px;"
     src="https://github.com/AutomaticChess/.github/blob/main/AutomaticChess.jpg">
 </div>
-
-[![Live Demo (JS)](https://img.shields.io/badge/Live_Demo-Visit-brightgreen)](https://automaticchess.github.io)
-[![Python version](https://img.shields.io/badge/Python_version-Repo-blue)](https://github.com/AutomaticChess/PythonGame)
-[![Report Bug](https://img.shields.io/badge/Report-Bug-red)](https://github.com/automaticchess/automaticchess.github.io/issues)
 
 ## ⚡ Features
 - 3 AI personalities (Aggressive, Positional, Balanced)
